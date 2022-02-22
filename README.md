@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Web+Developer;Technical+Leaders;JS+Full+Stack;Reactjs+Angular+Vuejs+Nodejs;Associate+AWS+Architecture&center=true&width=500&height=50"></a>
 </p>
-<h2 align="center">Programming Skills</h2>
+<h2 align="center">⚡Programming Skills⚡</h2>
 <h5>FrontEnd</h5>
 <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
