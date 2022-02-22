@@ -3,6 +3,35 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Developer;Technical+Leaders;JS+Full+Stack;Reactjs+Angular+Vuejs+Nodejs;Associate+AWS+Architecture&center=true&width=500&height=50"></a>
 </p>
 
+<h2 align="center">Programming Skills</h2>
+<h5>FrontEnd</h5>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
