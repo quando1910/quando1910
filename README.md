@@ -101,6 +101,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 
+## Contribitions
+I Contributed to:
+  - [Shopware-pwa](https://github.com/vuestorefront/shopware-pwa/commits?author=quando1910)
+
 ## 📊 Github Stats
 
   <p align="center">
