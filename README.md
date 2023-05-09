@@ -103,7 +103,8 @@
 
 ## Contribitions
 I Contributed to:
-  - [Shopware-pwa](https://github.com/vuestorefront/shopware-pwa/commits?author=quando1910)
+  - [Shopware PWA](https://github.com/vuestorefront/shopware-pwa/commits?author=quando1910)
+  - [Shopware Frontends](https://github.com/shopware/frontends/commits?author=quando1910)
 
 ## 📊 Github Stats
 
